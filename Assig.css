@@ -1,0 +1,45 @@
+body{
+  background: #bdc646;
+}
+h1{
+  color: #9b79b8;
+}
+h2{
+  color: yellow;
+}
+li{
+  color: #0518c4;
+}
+p{
+  background: white;
+}
+input{
+  border: 5px red solid;
+}
+.Demop{
+  background: blue;
+  color: white;
+}
+#simple{
+  border: 10px orange double;
+}
+input[type="text"]{
+  background:green;
+}
+input:checked{
+  margin-left:50px;
+}
+label{
+   text-transform: uppercase;
+}
+#simple:first-letter{
+  color: green;
+  font-size: 100px;
+}
+h1:hover{
+  color: white;
+  border: 10px red solid;
+}
+a:visited{
+  color:pink;
+}
